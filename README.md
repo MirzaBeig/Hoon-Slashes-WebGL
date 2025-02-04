@@ -4,8 +4,8 @@ Unity WebGL demo of ['perfect' circular slashes.](https://x.com/TheMirzaBeig/sta
 
 ## \> [Realtime/Live WebGL](https://mirzabeig.github.io/Hoon-Slashes-WebGL/)
 
-- 10 prefabs.
-- Demo for my procedural slashe shader with hand-drawn textures by [Magic Chromatic](https://twitter.com/magic_chromatic) (it's a mix of both).
+- 10 prefabs, demo for procedural slash shader w/ hand-drawn textures.
+- Most animations and textures by [Magic Chromatic](https://twitter.com/magic_chromatic)
 
 ## Controls
 
