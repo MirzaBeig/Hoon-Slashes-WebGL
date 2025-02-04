@@ -8,10 +8,7 @@ Unity WebGL demo of ['perfect' circular slashes.](https://x.com/TheMirzaBeig/sta
 - Most animations and textures by [Magic Chromatic](https://twitter.com/magic_chromatic)
 
 ## Controls
-
-Focus (click in the game area) to activate input for moving the target.  
-The emitter can be controlled without focus.
-
-*   **'R' to reset**.
+*   **'R' to reset camera**.
+*   **'W, A, S, D' keys to move/strafe camera.**.
 *   **Mouse click (or tap, on mobile) + drag to rotate camera**.
-*   **Mouse wheel to zoom**.
+*   **Mouse wheel to zoom camera**.
