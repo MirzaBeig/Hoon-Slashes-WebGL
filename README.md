@@ -2,9 +2,10 @@
 
 Unity WebGL demo of ['perfect' circular slashes.](https://x.com/TheMirzaBeig/status/1871748620128551135)
 
-## \> [Realtime/Live WebGL](https://mirzabeig.github.io/Targeting-Particles-WebGL/)
+## \> [Realtime/Live WebGL](https://mirzabeig.github.io/Hoon-Slashes-WebGL/)
 
-- Demo for my 'perfect' slashes procedural shader with hand-drawn textures by [Magic Chromatic](https://twitter.com/magic_chromatic) (it's a mix of both).
+- 10 prefabs.
+- Demo for my procedural slashe procedural shader with hand-drawn textures by [Magic Chromatic](https://twitter.com/magic_chromatic) (it's a mix of both).
 
 ## Controls
 
